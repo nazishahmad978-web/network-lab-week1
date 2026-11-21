@@ -1,0 +1,16 @@
+Just wrapped up Week 1 of my Network Administration Internship at IT-SIMPLERA Solutions! 🌐
+
+The task: build the same small network twice, once in Cisco Packet Tracer and once in GNS3. Three PCs connected through a switch in the 192.168.1.0/24 subnet, with static IPs and ping tests to verify connectivity.
+
+The result: every ping succeeded with 0% packet loss in both tools.
+
+What I took away:
+🔹 Hosts in the same subnet reach each other through a switch with no router or gateway
+🔹 Packet Tracer simulates traffic (replies under 1 ms), while GNS3 passes real emulated traffic (about 1 to 2 ms)
+🔹 Default TTL values differ between the tools: 128 in Packet Tracer, 64 in GNS3's VPCS
+
+The setup was the hard part. My GNS3 download request took up to two business days, the GitHub releases link gave me a 404, I had to track down the correct stable installer, and getting the PuTTY console to open took some troubleshooting. A good reminder that tooling problems are part of the job.
+
+Full write-up, screenshots and project files are on my GitHub: [paste your repository link here]
+
+#Networking #NetworkAdministration #CiscoPacketTracer #GNS3 #Internship #LearningInPublic #ComputerNetworks
