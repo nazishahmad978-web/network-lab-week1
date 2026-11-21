@@ -11,6 +11,6 @@ What I took away:
 
 The setup was the hard part. My GNS3 download request took up to two business days, the GitHub releases link gave me a 404, I had to track down the correct stable installer, and getting the PuTTY console to open took some troubleshooting. A good reminder that tooling problems are part of the job.
 
-Full write-up, screenshots and project files are on my GitHub: [paste your repository link here]
+Full write-up, screenshots and project files are on my GitHub: [https://github.com/nazishahmad978-web/network-lab-week1]
 
 #Networking #NetworkAdministration #CiscoPacketTracer #GNS3 #Internship #LearningInPublic #ComputerNetworks
